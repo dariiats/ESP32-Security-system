@@ -30,7 +30,7 @@ This ESP32 project implements a smart security system with a PIR motion sensor, 
 
 # Preparing the ESP32
 1. Open the project folder in the development environment.
-2. All necessary libraries (MFRC522_I2C, BluetoothSerial, Wire) are already included in the folder, so no additional installation is required.
+2. All necessary libraries (MFRC522_I2C, Wire) are already included in the folder, so no additional installation is required.
 3. Connect the ESP32 to your PC via USB.
 4. Compile and upload the project to the board.
 
