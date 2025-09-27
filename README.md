@@ -17,7 +17,7 @@ This ESP32 project implements a smart security system with a PIR motion sensor, 
 - Connecting wires
 
 ## Software
-- Arduino IDE (or PlatformIO)
+- Reccomonded: PlatformIO
 - Android phone with Serial Bluetooth Terminal app
 
 ## Notes
